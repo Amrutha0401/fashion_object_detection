@@ -1,1 +1,1 @@
-# fashion_object_detection
+# fashion_object_detection_yolov8
